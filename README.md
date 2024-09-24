@@ -1,5 +1,3 @@
-from typing import Union
-
 # RemoteController
 Library to enable easy communication of basic commands or binary payloads. Intended for embedded systems. <br>
 Written in python <br>
